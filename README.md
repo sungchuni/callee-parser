@@ -15,3 +15,4 @@ interface CalleeParserOptions {
 
 export = calleeParser;
 ```
+Usage analyzer of specific library in node_modules, for nodejs legacy application.
